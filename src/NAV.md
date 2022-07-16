@@ -1,9 +1,9 @@
 # YDoc
-![logo](ydoc/images/dog@1x.png)
+![logo](ydoc/images/logo.png)
 
 * [主页](https://springcloud.buession.com/)
-* [快速上手](/docs/quickstart.md)
-* [文档](/docs/installation.md)
+* [文档](/docs/quickstart.md)
+* [参考手册](/manual/index.md)
 * [技术支持](/support.html)
 ## 生态
   * [Buession Framework](https://wwww.buession.com/)
