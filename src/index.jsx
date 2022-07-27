@@ -1,7 +1,7 @@
 ---
 banner:
   name: '基于 Spring Cloud 2 的扩展'
-  desc: '基于 Spring Cloud 2 的扩展。'
+  desc: '基于 Spring Cloud 2 的扩展，统一三方包版本。'
   btns: 
     - { name: '开 始', href: '/docs/quickstart.html', primary: true }
     - { name: 'Github >', href: 'https://github.com/buession/buession-springcloud' }
