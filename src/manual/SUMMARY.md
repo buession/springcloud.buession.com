@@ -8,7 +8,7 @@
       * [配置属性](2.0/common/ConfigurationProperties.md)
     * [buession-springcloud-config-client](2.0/config-client/index.md)
       * [安装](2.0/config-client/index.md#安装)
-      * [配置属性](2.0/onfig-client/ConfigurationProperties.md)
+      * [配置属性](2.0/config-client/ConfigurationProperties.md)
     * [buession-springcloud-config-server](2.0/config-server/index.md)
       * [安装](2.0/config-server/index.md#安装)
       * [配置属性](2.0/config-server/ConfigurationProperties.md)
