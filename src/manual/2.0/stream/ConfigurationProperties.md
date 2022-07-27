@@ -1,4 +1,4 @@
-# buession-springcloud-common 参考手册
+# buession-springcloud-stream 参考手册
 
 
 ## 配置属性

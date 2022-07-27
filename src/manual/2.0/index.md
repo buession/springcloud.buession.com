@@ -14,6 +14,7 @@ Buession SpringCloud API 包含以下目录：
 | buession-springcloud-gateway             | [使用帮助](gateway/index.md)             | [API 手册](https://javadoc.io/static/com.buession.springcloud/buession-springcloud-gateway/2.0.1/)        |
 | buession-springcloud-hystrix             | [使用帮助](hystrix/index.md)             | [API 手册](https://javadoc.io/static/com.buession.springcloud/buession-springcloud-hystrix/2.0.1/)        |
 | buession-springcloud-kubernetes          | [使用帮助](kubernetes/index.md)          | [API 手册](https://javadoc.io/static/com.buession.springcloud/buession-springcloud-kubernetes/2.0.1/)        |
+| buession-springcloud-metrics             | [使用帮助](metrics/index.md)             | [API 手册](https://javadoc.io/static/com.buession.springcloud/buession-springcloud-metrics/2.0.1/)        |
 | buession-springcloud-nacos-config-client | [使用帮助](nacos-config-client/index.md) | [API 手册](https://javadoc.io/static/com.buession.springcloud/buession-springcloud-nacos-config-client/2.0.1/)        |
 | buession-springcloud-nacos-discovery     | [使用帮助](nacos-discovery/index.md)     | [API 手册](https://javadoc.io/static/com.buession.springcloud/buession-springcloud-nacos-discovery/2.0.1/)        |
 | buession-springcloud-ribbon              | [使用帮助](ribbon/index.md)              | [API 手册](https://javadoc.io/static/com.buession.springcloud/buession-springcloud-ribbon/2.0.1/)        |
