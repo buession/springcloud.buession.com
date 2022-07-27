@@ -1,7 +1,7 @@
-# buession-springcloud-common 参考手册
+# buession-springcloud-hystrix 参考手册
 
 
-[SpringCloud](https://spring.io/projects/spring-cloud) 基础库依赖。
+[SpringCloud Netflix Hystrix](https://spring.io/projects/spring-cloud-netflix) 基础库依赖。
 
 
 ---
@@ -12,7 +12,7 @@
 ```xml
 <dependency>
     <groupId>com.buession.springcloud</groupId>
-    <artifactId>buession-springcloud-common</artifactId>
+    <artifactId>buession-springcloud-hystrix</artifactId>
     <version>x.x.x</version>
 </dependency>
 ```
@@ -22,4 +22,4 @@
 该模块定义了 SpringBootApplication 的接口，简化了您的 SpringBootApplication 启动类的创建(更多的使用方式，将在[buession-springboot-web](../web/index.md)和[buession-springboot-cli](../cli/index.md)讲解)。该模块还将自动自动配置 `MessagePropertyBeanPostProcessor`。
 
 
-### [API 参考手册>>](https://javadoc.io/static/com.buession.springcloud/buession-springcloud-common/2.0.1/)
+### [API 参考手册>>](https://javadoc.io/static/com.buession.springcloud/buession-springcloud-hystrix/2.0.1/)
