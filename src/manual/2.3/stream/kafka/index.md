@@ -1,7 +1,7 @@
 # buession-springcloud-stream-kafka 参考手册
 
 
-[SpringCloud Stream](https://spring.io/projects/spring-cloud-stream) 基础库依赖。
+[Spring Cloud Stream Kafka Binder](https://spring.io/projects/spring-cloud-stream) 基础库依赖。
 
 
 ---
